@@ -65,47 +65,6 @@ git commit -m "Initial commit: Portfolio Webpage"
 
 ---
 
-### 3. Deploy to Vercel (Free & Instant)
-Vercel is the recommended hosting platform for lightning-fast loading speeds and automatic deployments.
-
-#### Option A: Vercel Dashboard (Connected to GitHub)
-1. Push your code to a GitHub repository.
-2. Sign in to [Vercel](https://vercel.com).
-3. Click **Add New...** > **Project**.
-4. Import your GitHub repository, leave the default settings (Vercel automatically detects a static site), and click **Deploy**.
-
-#### Option B: Vercel CLI (Command Line)
-1. Install the Vercel CLI globally:
-   ```bash
-   npm install -g vercel
-   ```
-2. Run the deployment command in your project directory:
-   ```bash
-   vercel
-   ```
-3. Follow the CLI prompts. Once completed, run `vercel --prod` to deploy to production.
-
----
-
-### 4. Deploy to Netlify (Free & Drag-and-Drop)
-
-#### Option A: Drag & Drop (No Code)
-1. Go to [Netlify App](https://app.netlify.com).
-2. Drag and drop this folder directly into the upload area.
-3. Your site is deployed instantly!
-
-#### Option B: Netlify CLI
-1. Install the Netlify CLI:
-   ```bash
-   npm install -g netlify-cli
-   ```
-2. Log in and deploy:
-   ```bash
-   netlify login
-   netlify deploy --dir=.
-   ```
-
----
 
 ## 📬 Activating the Contact Form
 Your form is configured to send emails to `roshan047007@gmail.com` using FormSubmit.
