@@ -59,9 +59,9 @@ git commit -m "Initial commit: Portfolio Webpage"
    ```
 3. Go to your repository settings on GitHub.
 4. Navigate to the **Pages** tab on the left sidebar.
-5. Under **Build and deployment**, select **Deploy from a branch**.
-6. Set the branch to `main` and folder to `/ (root)`. Click **Save**.
-7. In a few minutes, your site will be live at `https://your-username.github.io/portfolio/`.
+5. Under **Build and deployment** > **Source**, select **GitHub Actions** from the dropdown menu.
+6. The automated workflow in `.github/workflows/deploy.yml` will automatically build and deploy your site to production whenever you push code!
+7. Your site will be live at `https://your-username.github.io/portfolio/`.
 
 ---
 
