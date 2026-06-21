@@ -13,6 +13,9 @@ I am an experienced **B.Sc Computer Science** graduate and **Creative Full Stack
 *   **Projects Completed:** 10+ Projects
 *   **Location:** Chennai, India
 *   **Email:** [roshan047007@gmail.com](mailto:roshan047007@gmail.com)
+*   **GitHub:** [roshan3043](https://github.com/roshan3043)
+*   **LinkedIn:** [Roshan S](https://www.linkedin.com/in/roshan-s3043)
+*   **Instagram:** [@_.joyboy._._](https://www.instagram.com/_.joyboy._._/)
 
 ---
 
