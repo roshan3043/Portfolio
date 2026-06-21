@@ -39,6 +39,9 @@ I am an experienced **B.Sc Computer Science** graduate and **Creative Full Stack
 5.  **Online Food Ordering System**
     *   *Source:* [roshan3043/Online-Food-Order](https://github.com/roshan3043/Online-Food-Order)
     *   *Demo:* [Live App](https://roshan3043.github.io/Online-Food-Order/)
+6.  **RPS Multiplayer Game**
+    *   *Source:* [roshan3043/RPS-Multiplayer-Game](https://github.com/roshan3043/RPS-Multiplayer-Game)
+    *   *Demo:* [Live App](https://rps-multiplayer-game.vercel.app/)
 
 ---
 
